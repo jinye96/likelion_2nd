@@ -1,1 +1,27 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+html {
+  background: url(images/merci.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.bgimg {
+    border: 0;
+    padding: 0;
+    background-image: url('../images/merci.png');
+    min-height: 100%;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+img{
+    position: absolute;
+}
+.icon1{
 
+}
