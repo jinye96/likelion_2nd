@@ -18,19 +18,7 @@ html {
     background-position: center;
     background-size: cover;
 }
-a{
-    position: fixed;
-    top: 5em;
-    left: 2em;
-}
-
-.icon2{
-    position: fixed;
-    top: 7em;
-    left: 2em;
-}
-.icon3{
-    position: fixed;
-    top: 7em;
-    left: 2em;
+img.ban1{
+    margin-top: 3em;
+    margin-left: 2em;
 }
