@@ -1,8 +1,6 @@
 ## 자기소개 페이지 만들기
 ###완성화면
-| ![complete](./images/result1.png)| ![complete](./images/result2.png)|
-|--------|--------|
-|처음 시작 화면 : index.html|자기 소개를 누른 뒤 화면: intro.html|
+ ![complete](./images/result_table.png)
 
 ### 구현 의도
 오버워치가 하고 싶은데 컴퓨터는 꾸리고 피방 갈 시간은 없고 피방 갈 돈도 딱히 없고 밥 먹으면서 오버워치 플레이 경기보다가 오버워치 테마로 내 자기소개 홈페이지 만들면 재밌겠다 싶어서 만들었다.
